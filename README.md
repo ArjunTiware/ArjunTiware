@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjuntiware&label=Profile%20views&color=0e75b6&style=flat" alt="arjuntiware" /> </p>
 
-- 🌱 I’m currently learning **NextJS & ThreeJS**
+- 🌱 I’m currently learning **NextJS & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://arjuns-portf0li0.netlify.app/](https://arjuns-portf0li0.netlify.app/)
 
