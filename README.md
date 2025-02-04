@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS & ThreeJS**
 
-- 👨‍💻 All of my projects are available at [https://arjuns-portfoli0.netlify.app/](https://arjuns-portfoli0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arjuns-portf0li0.netlify.app/](https://arjuns-portf0li0.netlify.app/)
 
 - 💬 Ask me about **FRONTEND || FULLSTACK || BACKEND || MERN STACK**
 
